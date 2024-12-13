@@ -21,13 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-ken.png"
   name             : "Lee Kenshinz"
   pronouns         : # example: "she/her"  
   bio              : "Marketing Specialist & Journalist in Tech-Industry"
   location         : "China"
-  employer         : "Xiaomi Group"
-  uri              : https://lee-kenshinz.github.io/editor/
+  employer         : "Xiaomi Group"          
   email            : "zixuan822@gmail.com" 
 
   # Academic websites
