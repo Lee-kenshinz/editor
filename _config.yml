@@ -12,9 +12,9 @@ avatar                   : "profile.png"
 title                    : "Marketing Specialist / Senior Editor"
 name                     : "Lee Ken "
 description              : "8 years experience in Tech-industry, include building brand model, public relationship, social media system, and has strong experience in marketing in China"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lee-kenshinz.github.io/editor/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Lee-kenshinz/lee-kenshinz.github.io/editor"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
