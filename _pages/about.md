@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Lee Ken is a Senior Marketing Specialist with 8 years experience in Tech-industry, helping the companies and organizations to build brand model, public relationship, social media system, and has strong experience in marketing in Chinese. Lee Ken also was a professional Technology Journalist & Editor focus on smart device for 4 years before, Published series of news on internet, many of which were reposted by global media. 
+
+Lee Ken now as a well-known Tech-blogger with 300,000 followers on [Sina Weibo](https://weibo.com/kenshinz) !
 
 A data-driven personal website
 ======
