@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-CN"
+locale                   : "cn-CN"
 avatar                   : "profile.png"
-title                    : "Marketing Specialist / Senior Editor"
+title                    : "Li,Zi Xi"
 name                     : "Lee Ken "
 description              : "8 years experience in Tech-industry, include building brand model, public relationship, social media system, and has strong experience in marketing in China"
 url                      : https://lee-kenshinz.github.io/editor/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
