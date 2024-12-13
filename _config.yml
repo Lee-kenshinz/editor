@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Lee Kenshinz"
   pronouns         : # example: "she/her"  
-  bio              : "Marketing Specialist in Tech industry"
+  bio              : "Marketing Specialist & Journalist in Tech-Industry"
   location         : "China"
   employer         : "Xiaomi Group"
-  uri              : # https://lee-kenshinz.github.io/editor/
+  uri              : https://lee-kenshinz.github.io/editor/
   email            : "zixuan822@gmail.com" 
 
   # Academic websites
