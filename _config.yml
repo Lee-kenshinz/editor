@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "cn-CN"
+locale                   : "en-US"
 avatar                   : "profile.png"
 title                    : "Li,Zi Xi"
-name                     : "Lee Ken "
+name                     : "Lee Ken"
 description              : "8 years experience in Tech-industry, include building brand model, public relationship, social media system, and has strong experience in marketing in China"
 url                      : https://lee-kenshinz.github.io/editor/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  :# "" # the subpath of your site, e.g. "/blog"
